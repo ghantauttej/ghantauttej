@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="terraform" width="40" height="40"/>
 </a>
 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
