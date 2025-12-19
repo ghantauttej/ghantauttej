@@ -1,4 +1,4 @@
-                                                          Hi there 👋
+                                                       Hi 👋, I'm Uttej Ghanta
 
 <h3 align="center">i am a Passionate Devops Cloud Engineer in USA</h3>
 
