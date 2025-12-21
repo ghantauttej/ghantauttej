@@ -2,12 +2,8 @@
 
 <h3 align="center">A Passionate Devops Cloud Engineer in USA</h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uttej-ghanta-a2126b81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttej-ghanta-a2126b81" height="30" width="40" /></a>
-</p>
+## 🌐 My Social Media (time killers :)):
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uttej-ghanta-a2126b81) 
 
 <h3 align="left"> 💻Languages and Tools:</h3>
 <p align="left">
