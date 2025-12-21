@@ -2,7 +2,7 @@
 
 <h3 align="center">A Passionate Devops Cloud Engineer in USA</h3>
 
-## 🌐 My Social Media (time killers :)):
+## 🌐 My Social Media :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
 
 # 💻 Tech Stack:
