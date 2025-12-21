@@ -72,7 +72,7 @@
 <img 
   src="https://github.com/user-attachments/assets/2d3ea453-9416-402d-84e5-3b06f8b742f9"
   alt="paintM"
-  style="max-width: 600px; height: auto;"
+  width="400"
 />
 
 
