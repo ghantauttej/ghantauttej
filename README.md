@@ -61,6 +61,6 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghantauttej&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ghantauttej&limit=5&theme=white&combine_all_yearly_contributions=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantauttej&label=Profile%20views&color=0e75b6&style=flat" alt="ghantauttej" /> </p>
