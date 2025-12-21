@@ -70,14 +70,10 @@
 
 
 <img 
-  src="https://github.com/user-attachments/assets/2d3ea453-9416-402d-84e5-3b06f8b742f9"
+  src="https://github.com/user-attachments/assets/3f1022f1-836b-47cc-8d7b-1c50ebb789a9"
   alt="paintM"
   width="400"
 />
-
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantauttej&label=Profile%20views&color=0e75b6&style=flat" alt="ghantauttej" /> </p>
