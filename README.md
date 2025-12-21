@@ -68,4 +68,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantauttej&show_icons=true&locale=en" alt="ghantauttej" /></p>
 
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantauttej&label=Profile%20views&color=0e75b6&style=flat" alt="ghantauttej" /> </p>
