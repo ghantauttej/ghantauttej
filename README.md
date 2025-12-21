@@ -68,7 +68,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantauttej&show_icons=true&locale=en" alt="ghantauttej" /></p>
 
-
+### ✍️ Random Dev Quote
 <img 
   src="https://github.com/user-attachments/assets/3f1022f1-836b-47cc-8d7b-1c50ebb789a9"
   alt="paintM"
