@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uttej Ghanta </h1>
 
-<h3 align="center">i am a Passionate Devops Cloud Engineer in USA</h3>
+<h3 align="center">A Passionate Devops Cloud Engineer in USA</h3>
 
 
 
