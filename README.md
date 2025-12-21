@@ -69,7 +69,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantauttej&show_icons=true&locale=en" alt="ghantauttej" /></p>
 
 
-<img width="1498" height="599" alt="paintM" src="https://github.com/user-attachments/assets/2d3ea453-9416-402d-84e5-3b06f8b742f9" />
+<img 
+  src="https://github.com/user-attachments/assets/2d3ea453-9416-402d-84e5-3b06f8b742f9"
+  alt="paintM"
+  style="max-width: 600px; height: auto;"
+/>
+
 
 
 
