@@ -69,9 +69,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantauttej&show_icons=true&locale=en" alt="ghantauttej" /></p>
 
 
-<p align="left">
-  <img src="//www.azquotes.com/picture-quotes/quote-systems-thinking-is-a-discipline-for-seeing-wholes-it-is-a-framework-for-seeing-interrelationships-peter-senge-69-55-86.jpg" alt="Systems thinking is a discipline for seeing wholes. It is a framework for seeing interrelationships rather than things, for seeing ‘patterns of change’ rather than static ‘snapshots.’ - Peter Senge" />
-</p>
+<img width="546" height="332" alt="peter_sengequote" src="https://github.com/user-attachments/assets/c4523632-297a-4b84-95e0-14f01ef41d76" />
+
 
 
 
